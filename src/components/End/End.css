@@ -1,0 +1,29 @@
+#end {
+  padding-left: 285px;
+  padding-top: 20px;
+  color: white;
+}
+
+.end {
+  border: 2px solid rgb(46, 43, 67);
+  width: 250px;
+  padding: 10px;
+}
+
+.img_one {
+  width: 250px;
+  height: 150px;
+  border-radius: 25px;
+}
+
+.andy {
+  display: flex;
+  align-items: center;
+  gap: 90px;
+}
+
+.end_general {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,25 @@
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.together {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.about_together {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.menu {
+  padding: 35px 0 15px 0;
+}
+
+.category {
+  padding: 35px 0 0 0;
+}
